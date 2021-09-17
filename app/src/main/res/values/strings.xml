@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">TestImage</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="trouble">Sorun</string>
-    <string name="solution">Çözüm</string>
-    <string name="network">Picasso - Glide</string>
-    <string name="card_image">Statik</string>
-</resources>
